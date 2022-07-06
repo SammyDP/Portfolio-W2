@@ -15,3 +15,8 @@ Another criteria of this portfolio is to be responsive and to adapt to different
 I have also created a wireframe mock up of my portfolio created with figma
 
 Comments have been added to organize my code and/or to remind me of a particular function
+
+Github Pages link :  https://sammydp.github.io/Portfolio-W2/
+
+![image](https://user-images.githubusercontent.com/107449948/177460724-e26f4e21-323f-47f4-aa53-7ee97ed7c4b8.png)
+
